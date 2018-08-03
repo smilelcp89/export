@@ -1,0 +1,18 @@
+{
+    "name": "async/export",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Async\\Export\\": "src/"
+        }
+    }
+}
